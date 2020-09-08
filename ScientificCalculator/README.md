@@ -1,3 +1,9 @@
+# Scientific Calculator
+This is a C++ program that provides a calculator that runs on the Command Line Interface. It supports basic operations and some scientific calculator functions, like trigonometric functions. It utilizes Object Oriented Design and Principles.
+
+# Screenshots
+![](basiccalc.PNG)
+
 # Code Plan
 # OOP Features
 
